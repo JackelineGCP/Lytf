@@ -1,0 +1,115 @@
+<!--star secction 2 -->
+    <section class="secction2">
+        <div>
+            <div>
+                <h2>A RIDE IN MINUTES</h2>
+                <p>Request a ride and you’ll be on your way in minutes.
+                    <br> Request. Ride. Repeat.</p>
+            </div>
+            <div>
+                <h2>SERIOUS ABOUT SAFETY</h2>
+                <p>From knowing the color of your driver’s car to our 24/7
+                    <br> Trust & Safety Team, we got you.</p>
+                <div>
+                    <h2>HAPPY DRIVERS.
+                        <br> HAPPY RIDERS.</h2>
+                    <p>Ride with us and you’ll see why 9 out of 10 rides end with five
+                        <br> stars.</p>
+                </div>
+            </div>
+            <figure>
+                <img src="assets/images/phone.png" alt="image phone">
+            </figure>
+        </div>
+    </section>
+    <!-- star secction 3 -->
+    <section>
+        <div>
+            <h5>WHATCH</h5>
+            <h2>Amplify your ride</h2>
+            <p>You work hard to get where you’re going. We’re here to help you get there.</p>
+        </div>
+        <div>
+            <iframe width="854" height="480" src="https://www.youtube.com/embed/fLSmUWOYpKw" frameborder="0" gesture="media" allowfullscreen></iframe>
+        </div>
+    </section>
+    <!-- start secction 4 -->
+    <section>
+        <div>
+            <div>
+                <iframe width="854" height="480" src="https://www.youtube.com/embed/V7j8Aqxmbs8" frameborder="0" gesture="media" allowfullscreen></iframe>
+            </div>
+            <div>
+                <h5>WHATCH</h5>
+                <h3>JUNE</h3>
+                <p>In an animated short film by academy
+                    <br> Award-winner Jhon Kahrs, a lonely widow
+                    <b></b> in history South Chicago is empowered to
+                    <b></b> star sharing the ride- and sharing her life,
+                    <b></b> too </p>
+            </div>
+        </div>
+    </section>
+    <!-- star secction 5 -->
+    <section>
+        <div>
+            <h5>WATCH</h5>
+            <h2>A good thinh going</h2>
+            <p>In an animated short film by academy
+                <br> Award-winner Jhon Kahrs, a lonely widow
+                <b></b> in history South Chicago is empowered to
+                <b></b> star sharing the ride- and sharing her life,
+                <b></b> too </p>
+        </div>
+        <div>
+            <iframe width="854" height="480" src="https://www.youtube.com/embed/xj2VWLV0xCU" frameborder="0" gesture="media" allowfullscreen></iframe>
+        </div>
+    </section>
+    <!-- star footer -->
+    <footer>
+        <div class="class-footer">
+            <div>
+                <h5>LOG IN</h5>
+                <ul>
+                    <li>Help</li>
+                    <li>Cities</li>
+                    <li>Airports</li>
+                    <li>Fare Estimate</li>
+                </ul>
+            </div>
+            <div>
+                <h5>PARTNER</h5>
+                <ul>
+                    <li>Partnerships</li>
+                    <li>Enterprise</li>
+                    <li>Ambassadors</li>
+                    <li>Developers</li>
+                </ul>
+            </div>
+            <div>
+                <h5>LEARN</h5>
+                <ul>
+                    <li>Safaty</li>
+                    <li>Blog</li>
+                    <li>Press</li>
+                    <li>Careers</li>
+                </ul>
+            </div>
+            <div>
+                <!-- figure*3>img -->
+                <figure class="size-image">
+                    <img src="assets/images/apple-store.svg" alt="image-apple">
+                </figure>
+                <figure class="size-image">
+                    <img src="assets/images/google-play.png" alt="image-google">
+                </figure>
+                <figure class="size-image">
+                    <img src="assets/images/microsoft.png" alt="image-microsoft">
+                </figure>
+            </div>
+        </div>
+        <div>
+            <!-- figure*3>i -->
+            <figure class="icons">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+        
